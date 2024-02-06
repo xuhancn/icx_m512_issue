@@ -1,5 +1,5 @@
 # icx_m512_issue
-It is a small test case to reproduce that, Intel ICX compiler not compatable to MSVC __m512i SIMD type.
+It is a small test case to reproduce that, Intel ICX compiler not compatible to MSVC __m512i SIMD type.
 
 reproduce steps:
 1. In this project root:
